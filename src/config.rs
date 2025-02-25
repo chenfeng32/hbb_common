@@ -98,7 +98,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["47.76.82.81"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["vnc.piuni.cn"];
 pub const RS_PUB_KEY: &str = "KrUEnBz1gIY4MaZ4yNnIddCn9sLvrH8BL1dC+KQm6EE=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
